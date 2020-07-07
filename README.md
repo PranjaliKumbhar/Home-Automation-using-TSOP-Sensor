@@ -14,6 +14,7 @@ Less the energy consumption less the electricity bill. Make human begins life ea
 It reduces the efforts to turn on and off devices by going physically near the switch box and switch off/on.
 
 ⦁	SYSTEM DESIGN
+
 Hardware requirements:
   1. Arduino UNO
   2. TSOP1738 sensor
@@ -24,6 +25,7 @@ Hardware requirements:
   7. Bread board
   8. Power supply
   9. Plugs 
+  
 Software requirements:
   1. Arduino IDE Software
 
