@@ -1,6 +1,5 @@
-View in Raw
-
 Code:
+
 #include <IRremote.h>
 int IRpin = 11;
 IRrecv irrecv(IRpin);
